@@ -96,7 +96,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/parsapanahpoor/parsapanahpoor/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/parsapanahpoor/profile-readme-generator/blob/main/public/assets/snake.svg" alt="Snake animation" />
 
 ###
 
