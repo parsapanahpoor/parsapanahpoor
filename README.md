@@ -129,15 +129,25 @@
 
 ###
 
-<div align="center" style="width: 100%">
+<div align="center">
   <a target="_blank" href="https://medium.com/@parsapanahpoor/understanding-iservicecollection-and-iserviceprovider-in-asp-net-f798c4adef70">
-    <img style="width: 100%" src="https://medium.com/@parsapanahpoor/understanding-iservicecollection-and-iserviceprovider-in-asp-net-f798c4adef70" alt="Medium post 1"  />
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@parsapanahpoor/0" alt="Recent Medium Article 1">
   </a>
-  <a target="_blank" href="https://medium.com/@parsapanahpoor/1">
-    <img style="width: 100%" src="https://medium.com/@parsapanahpoor/1" alt="Medium post 2"  />
+</div>
+
+###
+
+<div align="center">
+  <a target="_blank" href="https://medium.com/@parsapanahpoor">
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@parsapanahpoor/1" alt="Recent Medium Article 2">
   </a>
-  <a target="_blank" href="https://medium.com/@parsapanahpoor/2">
-    <img style="width: 100%" src="https://medium.com/@parsapanahpoor/2" alt="Medium post 3"  />
+</div>
+
+###
+
+<div align="center">
+  <a target="_blank" href="https://medium.com/@parsapanahpoor">
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@parsapanahpoor/2" alt="Recent Medium Article 3">
   </a>
 </div>
 
